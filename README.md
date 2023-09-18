@@ -3,4 +3,4 @@
 
 >> this is where we add another text edit
 
-# why should you be careful you might ask?
+# because conflicts can be a doosey, but we can resolve them
