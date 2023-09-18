@@ -4,4 +4,4 @@
 >> this is where we add another text edit
 
 # because conflicts can be a doosey, but we can resolve them
->> though sometimes its a pain
+### We have to pick exactly how we want the file to look
